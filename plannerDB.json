@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "title": "Make Mario Game",
+      "description": "lorem ipsum",
+      "isCompleted": true
+    },
+    {
+      "title": "Read One Thing",
+      "description": "lorem ipsum",
+      "isCompleted": true
+    }
+  ]
+}
