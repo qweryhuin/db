@@ -1,4 +1,4 @@
-
+{
   "projects": [
     {
       "title": "Make Mario Game",
@@ -11,3 +11,4 @@
       "isCompleted": true
     }
   ]
+}
