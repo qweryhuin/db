@@ -8,7 +8,7 @@
     {
       "title": "Read One Thing",
       "description": "lorem ipsum",
-      "isCompleted": true
+      "isCompleted": false
     }
   ]
 }
